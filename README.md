@@ -1,4 +1,4 @@
-# dashboard-portfolio
+# Dashboard Portfolio
 This repository contains a collection of my data analytics and business intelligence dashboards. 
 
 1. Tableau: Dashboard Covid-19 (Tableau)
