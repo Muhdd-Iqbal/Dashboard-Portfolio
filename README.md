@@ -7,7 +7,7 @@ This repository contains a collection of my data analytics and business intellig
    
    https://public.tableau.com/app/profile/hiba1784/viz/DashboardCovid-19_16220114650750/Dashboard1
 
-2. Product Dashboard (Revenue)
+2. Tableau: Product Dashboard (Revenue)
    Description:
    This dashboard informs you about product sale and revenue for each country.
 
